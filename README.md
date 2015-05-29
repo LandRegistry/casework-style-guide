@@ -1,2 +1,2 @@
 # Casework Style Guide
-Style Guide for internal casework related applications
+Style guide for internal casework related applications
